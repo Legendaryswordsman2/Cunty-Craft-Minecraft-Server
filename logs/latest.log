@@ -1,0 +1,128 @@
+[19:04:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:04:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:04:25] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:04:25] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2859 for Minecraft 1.12.2 loading
+[19:04:25] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_341, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_341
+[19:04:25] [main/INFO] [FML]: Searching C:\Users\LegendarySwordsman2\Desktop\The Cunty Survival Server\.\mods for mods
+[19:04:26] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.1.0.jar
+[19:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:04:26] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/LegendarySwordsman2/Desktop/The%20Cunty%20Survival%20Server/./mods/DynamicSurroundings-1.12.2-3.6.1.0.jar Service=LaunchWrapper Env=SERVER
+[19:04:26] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:04:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:04:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:04:27] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:04:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:04:27] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:04:27] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@55f45b92
+[19:04:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:04:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:04:27] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:04:27] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:04:27] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:04:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:04:29] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2859 Initialized
+[19:04:29] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:04:29] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:04:29] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:04:29] [Server thread/INFO] [FML]: Searching C:\Users\LegendarySwordsman2\Desktop\The Cunty Survival Server\.\mods for mods
+[19:04:29] [Server thread/INFO] [FML]: Forge Mod Loader has identified 12 mods to load
+[19:04:29] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:04:29] [Server thread/WARN] [FML]: Missing English translation for craftstudioapi: assets/craftstudioapi/lang/en_us.lang
+[19:04:29] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[19:04:29] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, craftstudioapi, dsurround, jei, oreexcavation, tektopia, worldedit, orelib] at CLIENT
+[19:04:29] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, biomesoplenty, craftstudioapi, dsurround, jei, oreexcavation, tektopia, worldedit, orelib] at SERVER
+[19:04:30] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:04:30] [Server thread/INFO] [FML]: Found 1205 ObjectHolder annotations
+[19:04:30] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:04:30] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:04:30] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:04:30] [Forge Version Check/INFO] [forge.VersionCheck]: [craftstudioapi] Starting version check at https://leviathan-studio.com/craftstudioapi/update.json
+[19:04:31] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[19:04:31] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[19:04:31] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[19:04:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.TekVillager:preInit:78]: TekTopia is loading!
+[19:04:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModEntities:init:58]: Registering Entities
+[19:04:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModBlocks:register:28]: Registering Blocks
+[19:04:31] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:31] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:31] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.ModItems:register:150]: Registering Items
+[19:04:31] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:31] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:31] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:31] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:31] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:31] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:31] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:04:31] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:04:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:04:31] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[19:04:32] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:32] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:32] [Server thread/INFO] [STDOUT]: [net.tangotek.tektopia.generation.TekStructureVillagePieces:registerVillagePieces:27]: Registering Tek Village Structures
+[19:04:32] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:04:32] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:04:32] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10-SNAPSHOT) is loaded
+[19:04:32] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[19:04:32] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 12 mods
+[19:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:04:32] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:04:32] [Server thread/INFO] [FML]: Applying holder lookups
+[19:04:33] [Server thread/INFO] [FML]: Holder lookups applied
+[19:04:33] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:<init>:61]: settings for world: 
+[19:04:33] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOP:initialLandAndSeaLayer:93]: Setting up landmass VANILLA
+[19:04:33] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:89]: ChunkGeneratorOverworldBOP json: 
+[19:04:33] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.ChunkGeneratorOverworldBOP:<init>:96]: ChunkGeneratorOverworldBOP settings: {"landScheme":"vanilla","tempScheme":"medium_zones","rainScheme":"medium_zones","biomeSize":"medium","amplitude":1.0,"generateBopOre":true,"generatePoisonIvy":false,"generateBerryBushes":true,"generateThorns":true,"generateQuicksand":true,"generateLiquidPoison":true,"generateHotSprings":true,"generateNetherHives":true,"generateEndFeatures":true,"mainNoiseScaleX":80.0,"mainNoiseScaleY":160.0,"mainNoiseScaleZ":80.0,"coordinateScale":684.412,"heightScale":684.412,"upperLimitScale":512.0,"lowerLimitScale":512.0}
+[19:04:33] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6368c14b)
+[19:04:33] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 700 advancements
+[19:04:33] [Server thread/INFO] [dsurround]: Attaching capabilities to world [overworld] (SERVER)
+[19:04:33] [Server thread/INFO] [dsurround]: DimensionInfo{id=0, name=overworld, seaLevel=63, cloudHeight=128, skyHeight=256, haze=true, aurora=true, weather=true, fog=true}
+[19:04:33] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[19:04:33] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6368c14b)
+[19:04:33] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_end] (SERVER)
+[19:04:33] [Server thread/INFO] [dsurround]: DimensionInfo{id=1, name=the_end, seaLevel=0, cloudHeight=128, skyHeight=256, haze=false, aurora=false, weather=false, fog=false}
+[19:04:33] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[19:04:33] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[19:04:33] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6368c14b)
+[19:04:33] [Server thread/INFO] [dsurround]: Attaching capabilities to world [the_nether] (SERVER)
+[19:04:33] [Server thread/INFO] [dsurround]: DimensionInfo{id=-1, name=the_nether, seaLevel=0, cloudHeight=128, skyHeight=128, haze=false, aurora=false, weather=true, fog=true}
+[19:04:33] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[19:04:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:04:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.438s)! For help, type "help" or "?"
+[19:04:34] [Server thread/ERROR] [net.minecraft.server.MinecraftServer]: Couldn't load server icon
+java.lang.IllegalStateException: Must be 64 pixels wide
+	at org.apache.commons.lang3.Validate.validState(Validate.java:829) ~[minecraft_server.1.12.2.jar:?]
+	at net.minecraft.server.MinecraftServer.func_184107_a(MinecraftServer.java:610) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:493) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_341]
+[19:04:34] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:04:34] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:04:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[19:04:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:04:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:04:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[19:04:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[19:04:37] [Server thread/INFO] [FML]: Unloading dimension 0
+[19:04:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[19:04:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:04:37] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
