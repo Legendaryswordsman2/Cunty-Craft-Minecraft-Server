@@ -2148,6 +2148,12 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-09-02 21:24:24 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2022-08-31 16:47:37 -0700"
@@ -3055,6 +3061,12 @@
   "aether_legacy:recipes/misc/blue_cape": {
     "criteria": {
       "has_the_recipe": "2022-08-31 16:47:37 -0700"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-09-02 21:24:24 -0700"
     },
     "done": true
   },

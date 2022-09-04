@@ -736,13 +736,20 @@
     "criteria": {
       "oasis": "2022-08-31 18:11:01 -0700",
       "woodland": "2022-08-31 18:09:04 -0700",
+      "shrubland": "2022-09-04 00:28:27 -0700",
+      "volcanic_island": "2022-09-03 23:55:56 -0700",
       "chaparral": "2022-08-31 18:08:04 -0700",
+      "orchard": "2022-09-04 00:27:51 -0700",
       "outback": "2022-08-30 16:53:12 -0700",
+      "wasteland": "2022-09-04 00:24:49 -0700",
       "cherry_blossom_grove": "2022-08-30 16:44:26 -0700",
+      "kelp_forest": "2022-09-04 00:20:27 -0700",
       "pasture": "2022-08-30 16:44:50 -0700",
+      "meadow": "2022-09-04 00:32:05 -0700",
       "lush_swamp": "2022-08-30 16:35:52 -0700",
       "prairie": "2022-08-30 16:42:31 -0700",
       "gravel_beach": "2022-08-30 17:34:41 -0700",
+      "lavender_fields": "2022-09-04 00:22:16 -0700",
       "brushland": "2022-08-30 16:56:10 -0700"
     },
     "done": false
@@ -1417,8 +1424,11 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "topaz": "2022-09-02 22:05:54 -0700",
       "emerald": "2022-08-30 16:54:03 -0700",
-      "tanzanite": "2022-08-31 18:54:11 -0700"
+      "tanzanite": "2022-08-31 18:54:11 -0700",
+      "ruby": "2022-09-03 23:59:28 -0700",
+      "sapphire": "2022-09-04 00:04:15 -0700"
     },
     "done": false
   },
@@ -1840,14 +1850,19 @@
     "criteria": {
       "forest": "2022-08-31 17:04:53 -0700",
       "birch_forest": "2022-08-30 16:52:30 -0700",
+      "deep_ocean": "2022-09-03 23:39:06 -0700",
+      "beaches": "2022-09-03 23:48:33 -0700",
       "desert_hills": "2022-08-31 18:14:54 -0700",
       "forest_hills": "2022-08-30 17:06:29 -0700",
       "plains": "2022-08-30 17:06:14 -0700",
+      "savanna": "2022-09-04 00:21:59 -0700",
       "taiga": "2022-08-30 17:33:18 -0700",
       "taiga_hills": "2022-08-30 17:33:49 -0700",
       "birch_forest_hills": "2022-08-30 16:52:39 -0700",
+      "taiga_cold": "2022-09-03 23:39:34 -0700",
       "ocean": "2022-08-30 17:36:14 -0700",
       "roofed_forest": "2022-08-30 17:40:42 -0700",
+      "cold_beach": "2022-09-03 23:39:31 -0700",
       "river": "2022-08-30 16:44:48 -0700",
       "desert": "2022-08-31 18:09:22 -0700"
     },
@@ -2150,6 +2165,12 @@
   "biomesoplenty:recipes/misc/mud_from_dirt": {
     "criteria": {
       "has_gem_block": "2022-08-30 17:17:13 -0700"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2022-09-02 21:24:16 -0700"
     },
     "done": true
   },
@@ -2651,6 +2672,12 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2022-09-02 22:09:39 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-08-30 17:01:42 -0700"
@@ -3062,6 +3089,12 @@
     },
     "done": true
   },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2022-09-02 21:24:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
@@ -3371,6 +3404,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 18:04:46 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2022-09-03 23:04:06 -0700"
     },
     "done": true
   },
