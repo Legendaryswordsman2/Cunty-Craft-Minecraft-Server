@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/flint_and_vulcanite": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-08-30 16:47:09 -0700"
@@ -465,6 +471,12 @@
     "criteria": {
       "iron_boots": "2022-08-30 17:35:48 -0700",
       "iron_leggings": "2022-08-30 17:35:48 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_leggings": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -1515,6 +1527,12 @@
   "minecraft:recipes/misc/bone_meal_from_block": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -3180,6 +3198,12 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/vulcanite_block": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ethereal_fence": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
@@ -3504,9 +3528,21 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/vulcanite_helmet": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/mangrove_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -3676,6 +3712,12 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/vulcanite_ingot": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blocks/stone/crystal_midnight_slab_stairs": {
     "criteria": {
       "has_the_recipe": "2022-09-04 20:40:00 -0700"
@@ -3777,6 +3819,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 18:04:46 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_boots": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -4111,6 +4159,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_shovel": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -4811,6 +4865,7 @@
       "cooked_beef": "2022-09-06 19:01:49 -0700",
       "apple": "2022-08-30 16:44:01 -0700",
       "melon": "2022-09-06 19:44:32 -0700",
+      "pumpkin_pie": "2022-09-07 02:57:47 -0700",
       "bread": "2022-08-31 19:04:16 -0700",
       "cooked_chicken": "2022-08-31 18:49:25 -0700"
     },
@@ -5074,6 +5129,12 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/vulcanite_from_block": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2022-08-30 16:46:13 -0700"
@@ -5239,6 +5300,12 @@
   "minecraft:recipes/misc/gold_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_axe": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
@@ -5740,6 +5807,12 @@
     },
     "done": true
   },
+  "vulcanite:recipes/vulcanite/vulcanite_hoe": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blocks/wood/lunar_chest": {
     "criteria": {
       "has_planks": "2022-09-04 20:40:00 -0700"
@@ -5893,6 +5966,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2022-08-30 16:45:47 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:recipes/vulcanite/vulcanite_sword": {
+    "criteria": {
+      "has_the_recipe": "2022-09-07 02:41:12 -0700"
     },
     "done": true
   },
