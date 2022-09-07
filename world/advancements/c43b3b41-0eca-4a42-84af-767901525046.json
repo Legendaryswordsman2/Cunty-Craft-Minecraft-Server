@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "mutantbeasts:root": {
+    "criteria": {
+      "killed_something": "2022-09-06 19:00:28 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_mangrove": {
     "criteria": {
       "entered_water": "2022-08-30 16:44:46 -0700"
@@ -951,6 +957,12 @@
   "biomesoplenty:recipes/buildingblocks/coarse_loamy_dirt": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-09-06 19:28:09 -0700"
     },
     "done": true
   },
@@ -1662,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-09-05 17:00:14 -0700"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blocks/wood/lunar_ladder": {
     "criteria": {
       "has_the_recipe": "2022-09-04 20:40:00 -0700"
@@ -2208,6 +2226,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-09-05 17:00:14 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-30 17:02:12 -0700"
@@ -2700,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-09-05 16:54:37 -0700"
+    },
+    "done": true
+  },
   "blue_skies:recipes/tools/shovel/wooden_shovel": {
     "criteria": {
       "has_the_recipe": "2022-09-04 20:40:00 -0700"
@@ -2745,6 +2775,12 @@
   "blue_skies:recipes/blocks/stone/charoite_block": {
     "criteria": {
       "has_the_recipe": "2022-09-04 20:40:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2022-09-05 17:02:05 -0700"
     },
     "done": true
   },
@@ -3527,10 +3563,15 @@
       "oasis": "2022-08-31 18:11:01 -0700",
       "woodland": "2022-08-31 18:09:04 -0700",
       "shrubland": "2022-09-04 00:28:27 -0700",
+      "fen": "2022-09-04 23:51:56 -0700",
+      "phantasmagoric_inferno": "2022-09-05 17:03:06 -0700",
       "volcanic_island": "2022-09-03 23:55:56 -0700",
+      "quagmire": "2022-09-04 23:47:34 -0700",
+      "marsh": "2022-09-06 20:04:17 -0700",
       "chaparral": "2022-08-31 18:08:04 -0700",
       "orchard": "2022-09-04 00:27:51 -0700",
       "outback": "2022-08-30 16:53:12 -0700",
+      "shield": "2022-09-04 23:57:34 -0700",
       "wasteland": "2022-09-04 00:24:49 -0700",
       "cherry_blossom_grove": "2022-08-30 16:44:26 -0700",
       "kelp_forest": "2022-09-04 00:20:27 -0700",
@@ -3538,6 +3579,7 @@
       "meadow": "2022-09-04 00:32:05 -0700",
       "lush_swamp": "2022-08-30 16:35:52 -0700",
       "prairie": "2022-08-30 16:42:31 -0700",
+      "grassland": "2022-09-06 20:06:50 -0700",
       "gravel_beach": "2022-08-30 17:34:41 -0700",
       "lavender_fields": "2022-09-04 00:22:16 -0700",
       "brushland": "2022-08-30 16:56:10 -0700"
@@ -3684,9 +3726,15 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2022-09-06 19:27:11 -0700",
       "skeleton": "2022-08-30 18:36:05 -0700",
+      "blaze": "2022-09-05 17:02:05 -0700",
       "zombie": "2022-08-30 18:31:03 -0700",
-      "spider": "2022-08-30 18:31:17 -0700"
+      "cave_spider": "2022-09-04 23:35:16 -0700",
+      "witch": "2022-09-06 19:29:32 -0700",
+      "spider": "2022-08-30 18:31:17 -0700",
+      "creeper": "2022-09-06 19:23:10 -0700",
+      "enderman": "2022-09-06 19:42:26 -0700"
     },
     "done": false
   },
@@ -4268,6 +4316,7 @@
     "criteria": {
       "forest": "2022-08-31 17:04:53 -0700",
       "birch_forest": "2022-08-30 16:52:30 -0700",
+      "swampland": "2022-09-06 19:45:02 -0700",
       "deep_ocean": "2022-09-03 23:39:06 -0700",
       "beaches": "2022-09-03 23:48:33 -0700",
       "desert_hills": "2022-08-31 18:14:54 -0700",
@@ -4275,7 +4324,9 @@
       "plains": "2022-08-30 17:06:14 -0700",
       "savanna": "2022-09-04 00:21:59 -0700",
       "taiga": "2022-08-30 17:33:18 -0700",
+      "redwood_taiga": "2022-09-04 23:57:13 -0700",
       "taiga_hills": "2022-08-30 17:33:49 -0700",
+      "redwood_taiga_hills": "2022-09-06 19:35:02 -0700",
       "birch_forest_hills": "2022-08-30 16:52:39 -0700",
       "taiga_cold": "2022-09-03 23:39:34 -0700",
       "ocean": "2022-08-30 17:36:14 -0700",
@@ -4757,7 +4808,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-08-31 18:40:27 -0700",
+      "cooked_beef": "2022-09-06 19:01:49 -0700",
       "apple": "2022-08-30 16:44:01 -0700",
+      "melon": "2022-09-06 19:44:32 -0700",
       "bread": "2022-08-31 19:04:16 -0700",
       "cooked_chicken": "2022-08-31 18:49:25 -0700"
     },
