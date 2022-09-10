@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "enderioconduits:root": {
+    "criteria": {
+      "inv_changed-enderio:sand": "2022-09-09 02:12:44 -0700"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
       "has_the_recipe": "2022-09-03 21:47:29 -0700"
@@ -3549,6 +3555,7 @@
     "criteria": {
       "woodland": "2022-09-06 20:10:30 -0700",
       "fen": "2022-09-06 18:41:11 -0700",
+      "phantasmagoric_inferno": "2022-09-09 02:26:56 -0700",
       "marsh": "2022-09-06 20:04:18 -0700",
       "chaparral": "2022-09-03 22:04:19 -0700",
       "orchard": "2022-09-06 20:08:58 -0700",
@@ -3705,6 +3712,7 @@
     "criteria": {
       "zombie_villager": "2022-09-06 19:05:42 -0700",
       "skeleton": "2022-09-06 19:01:41 -0700",
+      "blaze": "2022-09-09 02:29:08 -0700",
       "zombie": "2022-09-06 19:02:34 -0700",
       "spider": "2022-09-06 19:09:55 -0700",
       "enderman": "2022-09-06 19:49:03 -0700"
@@ -4763,7 +4771,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2022-09-06 19:25:04 -0700",
-      "bread": "2022-09-06 20:13:35 -0700"
+      "bread": "2022-09-06 20:13:35 -0700",
+      "rotten_flesh": "2022-09-09 02:16:25 -0700"
     },
     "done": false
   },
@@ -5760,6 +5769,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_the_recipe": "2022-09-03 21:47:29 -0700"
+    },
+    "done": true
+  },
+  "vulcanite:vulcanite/root": {
+    "criteria": {
+      "nether_trigger": "2022-09-09 02:26:05 -0700"
     },
     "done": true
   },
