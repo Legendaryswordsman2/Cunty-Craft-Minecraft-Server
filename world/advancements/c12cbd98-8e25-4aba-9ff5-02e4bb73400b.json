@@ -761,6 +761,12 @@
     },
     "done": true
   },
+  "aether_legacy:enter_aether": {
+    "criteria": {
+      "enter_aether": "2022-09-12 09:44:58 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-30 18:46:54 -0700"
@@ -4807,6 +4813,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2022-08-31 18:40:40 -0700",
+      "cooked_beef": "2022-09-12 09:45:17 -0700",
       "apple": "2022-08-31 18:40:06 -0700",
       "potato": "2022-08-30 18:33:27 -0700",
       "cooked_chicken": "2022-08-31 18:52:49 -0700",
@@ -5813,6 +5820,12 @@
   "blue_skies:recipes/blocks/wood/dusk_ladder": {
     "criteria": {
       "has_the_recipe": "2022-09-05 15:34:14 -0700"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2022-09-12 09:50:04 -0700"
     },
     "done": true
   },
