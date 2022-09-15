@@ -5766,6 +5766,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-09-14 21:48:35 -0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/honeycomb_block": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
