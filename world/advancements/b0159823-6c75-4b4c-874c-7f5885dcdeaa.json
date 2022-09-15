@@ -767,6 +767,12 @@
     },
     "done": true
   },
+  "aether_legacy:enter_aether": {
+    "criteria": {
+      "enter_aether": "2022-09-14 23:27:16 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2022-09-03 21:47:29 -0700"
@@ -2372,6 +2378,12 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2022-09-03 21:47:29 -0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2022-09-14 22:53:57 -0700"
     },
     "done": true
   },
@@ -4827,7 +4839,8 @@
     "criteria": {
       "cooked_beef": "2022-09-06 19:25:04 -0700",
       "bread": "2022-09-06 20:13:35 -0700",
-      "rotten_flesh": "2022-09-09 02:16:25 -0700"
+      "rotten_flesh": "2022-09-09 02:16:25 -0700",
+      "cooked_chicken": "2022-09-14 22:58:18 -0700"
     },
     "done": false
   },
@@ -5686,6 +5699,12 @@
   "blue_skies:recipes/material/light_gray_dye": {
     "criteria": {
       "has_the_recipe": "2022-09-05 22:38:55 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "tick": "2022-09-14 22:48:52 -0700"
     },
     "done": true
   },

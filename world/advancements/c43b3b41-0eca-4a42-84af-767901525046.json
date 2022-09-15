@@ -374,9 +374,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2022-09-12 10:51:59 -0700",
+      "inv_changed-enderio:clay": "2022-09-14 23:05:10 -0700",
       "inv_changed-enderio:sand": "2022-09-09 01:22:00 -0700"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/magenta_carpet": {
     "criteria": {
