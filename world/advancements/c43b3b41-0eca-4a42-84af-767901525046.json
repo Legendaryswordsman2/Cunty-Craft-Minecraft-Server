@@ -385,6 +385,12 @@
     },
     "done": true
   },
+  "betteranimalsplus:shark_target_player": {
+    "criteria": {
+      "targeted": "2022-09-17 22:19:08 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
@@ -635,6 +641,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "betteranimalsplus:animal_head_first": {
+    "criteria": {
+      "head4": "2022-09-17 22:31:04 -0700"
     },
     "done": true
   },
@@ -959,6 +971,12 @@
   "biomesoplenty:recipes/buildingblocks/ethereal_planks": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
+    },
+    "done": true
+  },
+  "enderio:gears/g4_energized_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-09-17 22:39:17 -0700"
     },
     "done": true
   },
@@ -1988,9 +2006,21 @@
     },
     "done": true
   },
+  "betteranimalsplus:animal_head_variants": {
+    "criteria": {
+      "head4": "2022-09-17 22:31:04 -0700"
+    },
+    "done": false
+  },
   "aether_legacy:recipes/combat/gravitite_sword": {
     "criteria": {
       "has_the_recipe": "2022-08-31 03:58:51 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-09-17 20:57:39 -0700"
     },
     "done": true
   },
@@ -2311,6 +2341,12 @@
       "has_the_recipe": "2022-08-31 03:19:31 -0700"
     },
     "done": true
+  },
+  "betteranimalsplus:animal_head_all": {
+    "criteria": {
+      "head4": "2022-09-17 22:31:04 -0700"
+    },
+    "done": false
   },
   "aether_legacy:recipes/combat/diamond_gloves": {
     "criteria": {
@@ -3622,6 +3658,7 @@
       "fen": "2022-09-04 23:51:56 -0700",
       "phantasmagoric_inferno": "2022-09-05 17:03:06 -0700",
       "volcanic_island": "2022-09-03 23:55:56 -0700",
+      "highland": "2022-09-17 20:40:42 -0700",
       "quagmire": "2022-09-04 23:47:34 -0700",
       "marsh": "2022-09-06 20:04:17 -0700",
       "chaparral": "2022-08-31 18:08:04 -0700",
@@ -4402,6 +4439,7 @@
       "forest_hills": "2022-08-30 17:06:29 -0700",
       "plains": "2022-08-30 17:06:14 -0700",
       "savanna": "2022-09-04 00:21:59 -0700",
+      "mesa_clear_rock": "2022-09-17 22:51:55 -0700",
       "taiga": "2022-08-30 17:33:18 -0700",
       "redwood_taiga": "2022-09-04 23:57:13 -0700",
       "taiga_hills": "2022-08-30 17:33:49 -0700",
@@ -4887,6 +4925,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-09-07 17:34:14 -0700",
+      "chicken": "2022-09-17 22:33:46 -0700",
       "cooked_mutton": "2022-08-31 18:40:27 -0700",
       "cooked_beef": "2022-09-06 19:01:49 -0700",
       "baked_potato": "2022-09-07 18:08:59 -0700",
@@ -5638,6 +5677,12 @@
   "blue_skies:recipes/combat/armor/turquoise_armor": {
     "criteria": {
       "has_the_recipe": "2022-09-04 20:40:00 -0700"
+    },
+    "done": true
+  },
+  "enderio:gears/g2_stone_gear": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2022-09-17 22:39:17 -0700"
     },
     "done": true
   },
